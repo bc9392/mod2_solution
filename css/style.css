@@ -49,6 +49,8 @@ p {
 .sechead {
     position: absolute;
     top: 0px;
+    width: 100px;
+    text-align: center;
     right: 0px;
     border: 1px solid black;
     font-size: 125%;
