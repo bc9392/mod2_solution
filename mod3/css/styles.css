@@ -1,0 +1,35 @@
+#header-nav .container {
+	margin-left: 0px;
+}
+
+#header-nav h1 {
+	margin-top: 10px;
+}
+
+.navbar-brand {
+    height : 80px;
+    padding: 10px 0px 10px 0;
+}
+
+#main-content {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+#main-content .row {
+	height: 1000px;
+	background: Azure;
+}
+
